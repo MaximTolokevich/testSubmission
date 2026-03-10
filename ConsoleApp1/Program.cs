@@ -36,4 +36,5 @@ public class Calculator
     }
 
     public void ClearHistory() => _history.Clear();
-}
+}  
+

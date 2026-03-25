@@ -39,5 +39,9 @@ public class CalculatorTests
         _calc.Add(2, 2);
         Assert.Single(_calc.History);
         Assert.Equal("2 + 2 = 4", _calc.History[0]);
+
+
+
+        
     }
 }

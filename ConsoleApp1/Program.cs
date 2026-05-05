@@ -36,5 +36,12 @@ public class Calculator
     }
 
     public void ClearHistory() => _history.Clear();
-}  
+}
+
+public static class Program
+{
+    public static void Main(string[] args)
+    {
+    }
+}
 
